@@ -119,6 +119,19 @@
       "diterima": 1234567,
       "tanggal": "2026-10-24",
       "status": "berhasil"
+    },
+    {
+      "id": "DN0008",
+      "kuitansi": "ZIS/2026/10/0008",
+      "program": "PR03",
+      "nama": "Rizwan D. Monkey",
+      "anonim": false,
+      "jumlah": 1000000000,
+      "metode": "transfer",
+      "biaya_admin": 0,
+      "diterima": 1000000000,
+      "tanggal": "2026-10-26",
+      "status": "berhasil"
     }
   ]
 }
