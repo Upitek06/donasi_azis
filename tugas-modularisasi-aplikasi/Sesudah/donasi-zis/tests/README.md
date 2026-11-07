@@ -33,3 +33,6 @@ donasi-zis/
 
 ##HASIL UNITES
 ![hasil unitest](images/Screenshot%202026-11-07%20105652.png)
+
+##hasil gagal
+![hasil gagal](images/Screenshot%202026-11-07%20113044.png)

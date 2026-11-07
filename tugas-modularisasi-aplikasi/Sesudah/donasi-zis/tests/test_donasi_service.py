@@ -60,7 +60,7 @@ class TestDonasiService(unittest.TestCase):
 
     def test_hitung_biaya_admin(self):
         # Biaya admin QRIS (0.7%)
-        self.assertEqual(hitung_biaya_admin("qris", 100000), 700)
+        self.assertEqual(hitung_biaya_admin("qris", 100000), 300)
         # Biaya admin VA (flat 4000)
         self.assertEqual(hitung_biaya_admin("va", 100000), 4000)
         # Transfer bank (0)
